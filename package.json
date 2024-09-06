@@ -1,0 +1,17 @@
+{
+  "name": "xiaoshuo_dl",
+  "displayName": "xiaoshuo_dl",
+  "version": "0.0.1",
+  "description": "www.po52.cc xiaoshuo download",
+  "author": "pingfury@outlook.com",
+  "scripts": {
+    "dev": "node m.js"
+  },
+  "dependencies": {
+    "acorn": "^8.12.1",
+    "acorn-walk": "^8.3.3",
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
+    "crypto-js": "^4.2.0"
+  }
+}
